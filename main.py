@@ -35,7 +35,7 @@ def main():
                 "maintenanceFlag": "false"
                 }
     work_order = {
-                    "description": "Physival_Example_Niklas",
+                    "description": "Physical_Example_Niklas",
                     "method": "NON_TRANSACTION",
                     "mode": "OFFLINE_SIM",
                     "priority": 1,
