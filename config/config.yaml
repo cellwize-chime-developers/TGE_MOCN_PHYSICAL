@@ -1,8 +1,8 @@
 application:
   meta:
-    name: TGE-Demo-App
+    name: TGE_MOCN_PHYSICALS
     description: This is a prototype chime application
-    author: aiutis@qti.qualcomm.com
+    author: niklas.buchmueller@telefonica.com
   schema:
     - name: NAAS_CLUSTER
       displayName: NaaS Cluster
